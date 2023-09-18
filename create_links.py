@@ -11,7 +11,7 @@ mapping = {
     "eye": "eye",
     "fox": "fox",
     "frame": "frame",
-    "hole": "hole",
+    "hole": "wrench",
     "play": "play",
     "wing": "wing",
 }
@@ -23,5 +23,5 @@ if __name__ == "__main__":
     for spoken, source in mapping.items():
         os.symlink(
             os.path.join("..", "source", "{}.svg".format(source)),
-            os.path.join(".", "hats", "{}.svg".format(source)),
+            os.path.join(".", "hats", "{}.svg".format(spoken)),
         )
