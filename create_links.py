@@ -3,17 +3,17 @@ import os
 import shutil
 
 mapping = {
-    "bolt": "bolt",
-    "crosshairs": "crosshairs",
-    "curve": "curve",
+    "bolt": "gate",
+    "crosshairs": "fang",
+    "curve": "knight",
     "default": "default",
-    "ex": "ex",
-    "eye": "eye",
-    "fox": "fox",
-    "frame": "frame",
+    "ex": "rook",
+    "eye": "church",
+    "fox": "shroom",
+    "frame": "horn",
     "hole": "wrench",
     "play": "play",
-    "wing": "wing",
+    "wing": "gem",
 }
 
 if __name__ == "__main__":
