@@ -7,7 +7,7 @@ mapping = {
     "crosshairs": "source/fang.svg",
     "curve": "source/knight.svg",
     "default": "source/default.svg",
-    "ex": "source/rook.svg",
+    "ex": "source/stair.svg",
     "eye": "source/church.svg",
     "fox": "source/shroom.svg",
     "frame": "source/horn.svg",
