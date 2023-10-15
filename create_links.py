@@ -16,7 +16,8 @@ mapping = {
     "wing": "source/gem.svg",
 }
 
-if __name__ == "__main__":
+
+def main():
     root = os.path.dirname(os.path.abspath(__file__))
     output_dir = os.path.join(root, "hats")
 
@@ -29,3 +30,7 @@ if __name__ == "__main__":
         dst = os.path.join(output_dir, "{}.svg".format(spoken))
         print("Linking {} -> {}".format(dst, src))
         os.symlink(src, dst)
+
+
+if __name__ == "__main__":
+    main()
