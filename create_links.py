@@ -9,10 +9,10 @@ mapping = {
     "default": "source/default.svg",
     "ex": "source/stair.svg",
     "eye": "source/church.svg",
-    "fox": "source/shroom.svg",
+    "fox": "source/singer.svg",
     "frame": "source/horn.svg",
     "hole": "source/wrench.svg",
-    "play": "source/play.svg",
+    "play": "source/stupa.svg",
     "wing": "source/gem.svg",
 }
 
