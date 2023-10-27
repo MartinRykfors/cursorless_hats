@@ -12,7 +12,7 @@ mapping = {
     "fox": "source/singer.svg",
     "frame": "source/horn.svg",
     "hole": "source/wrench.svg",
-    "play": "source/stupa.svg",
+    "play": "source/moon.svg",
     "wing": "source/gem.svg",
 }
 
