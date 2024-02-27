@@ -3,7 +3,7 @@ import os
 import shutil
 
 mapping = {
-    "bolt": "source/knight.svg",
+    "bolt": "source/shroom.svg",
     "crosshairs": "source/gate.svg",
     "curve": "source/curve.svg",
     "default": "source/default.svg",
